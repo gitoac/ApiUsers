@@ -1,0 +1,14 @@
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\bin\Debug\netcoreapp2.1\ExampleWebApiUser.deps.json
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\bin\Debug\netcoreapp2.1\ExampleWebApiUser.runtimeconfig.json
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\bin\Debug\netcoreapp2.1\ExampleWebApiUser.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\bin\Debug\netcoreapp2.1\ExampleWebApiUser.dll
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\bin\Debug\netcoreapp2.1\ExampleWebApiUser.pdb
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.RazorAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.RazorAssemblyInfo.cs
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.dll
+C:\Users\Jorge\Desktop\Jorge\Test\ExampleWebApiUser\ExampleWebApiUser\obj\Debug\netcoreapp2.1\ExampleWebApiUser.pdb
